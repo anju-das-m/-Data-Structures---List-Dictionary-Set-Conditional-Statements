@@ -1,5 +1,4 @@
 # -Data-Structures---List-Dictionary-Set-Conditional-Statements
-# Python Assignment 2 – Data Structures & Conditional Statements
 
 **Author:** Anju Das M
 
